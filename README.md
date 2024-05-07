@@ -1,4 +1,4 @@
-# sqllite
+# flutter_sqflite_tutorial_app
 
 A new Flutter project.
 
